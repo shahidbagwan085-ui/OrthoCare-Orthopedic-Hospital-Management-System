@@ -55,7 +55,7 @@ You can run it in two ways:
 #### Option A: Running from command line (Cargo plugin)
 Execute:
 ```bash
-mvn cargo:run
+    
 ```
 This automatically downloads, configures, and starts Tomcat 9 on port `8080`.
 Access the app at: `http://localhost:8080/orthocare/`
